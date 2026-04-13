@@ -1,0 +1,180 @@
+Date,Month,Income Source,Expense Category,Expense Type,Payment Mode,Amount,Income/Expense Indicator,Savings,Budget Allocated,Budget Remaining,Notes
+2026-01-01,Jan-26,Salary,,N/A,Bank Transfer,88796,Income,88796,0,0,Monthly salary credited
+2026-01-02,Jan-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-01-05,Jan-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-01-07,Jan-26,,Groceries,Variable,UPI,2896,Expense,-2896,6451,3555,Supermarket groceries
+2026-01-08,Jan-26,,Utilities,Fixed,Bank Transfer,1741,Expense,-1741,3901,2160,Electricity bill
+2026-01-09,Jan-26,,Insurance,Fixed,Bank Transfer,3500,Expense,-3500,3500,0,Health insurance premium
+2026-01-11,Jan-26,,Utilities,Fixed,UPI,1721,Expense,-1721,3901,2180,Internet / mobile bill
+2026-01-12,Jan-26,,Food,Variable,Cash,1527,Expense,-1527,5963,4436,Dining out / office lunch
+2026-01-16,Jan-26,,Shopping,Variable,UPI,6381,Expense,-6381,4857,-1524,Apparel / lifestyle purchase
+2026-01-18,Jan-26,,Entertainment,Variable,UPI,1688,Expense,-1688,2609,921,Movies / subscriptions
+2026-01-21,Jan-26,,Groceries,Variable,Cash,3113,Expense,-3113,6451,3338,Monthly essentials restock
+2026-01-22,Jan-26,,Healthcare,Variable,UPI,1993,Expense,-1993,3785,1792,Health and wellness spend
+2026-01-25,Jan-26,,Food,Variable,Cash,2064,Expense,-2064,5963,3899,Weekend food order
+2026-01-27,Jan-26,,Travel,Variable,Cash,3859,Expense,-3859,4185,326,Cab / fuel / local travel
+2026-02-01,Feb-26,Salary,,N/A,Bank Transfer,92904,Income,92904,0,0,Monthly salary credited
+2026-02-02,Feb-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-02-05,Feb-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-02-07,Feb-26,,Groceries,Variable,Credit Card,3401,Expense,-3401,6465,3064,Supermarket groceries
+2026-02-08,Feb-26,,Utilities,Fixed,Bank Transfer,2387,Expense,-2387,3591,1204,Electricity bill
+2026-02-11,Feb-26,,Utilities,Fixed,UPI,1856,Expense,-1856,3591,1735,Internet / mobile bill
+2026-02-12,Feb-26,,Food,Variable,Cash,1206,Expense,-1206,5461,4255,Dining out / office lunch
+2026-02-16,Feb-26,,Shopping,Variable,Credit Card,5658,Expense,-5658,4847,-811,Apparel / lifestyle purchase
+2026-02-18,Feb-26,,Entertainment,Variable,Cash,2460,Expense,-2460,3434,974,Movies / subscriptions
+2026-02-21,Feb-26,,Groceries,Variable,Credit Card,3123,Expense,-3123,6465,3342,Monthly essentials restock
+2026-02-25,Feb-26,Freelance,,N/A,Bank Transfer,13876,Income,13876,0,0,Freelance project payment
+2026-02-25,Feb-26,,Food,Variable,Credit Card,2673,Expense,-2673,5461,2788,Weekend food order
+2026-02-26,Feb-26,,Education,Variable,Bank Transfer,3022,Expense,-3022,3049,27,Course / books / certification
+2026-02-28,Feb-26,,Healthcare,Variable,UPI,4765,Expense,-4765,3632,-1133,Medicines / doctor consultation
+2026-03-01,Mar-26,Salary,,N/A,Bank Transfer,93894,Income,93894,0,0,Monthly salary credited
+2026-03-02,Mar-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-03-05,Mar-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-03-07,Mar-26,,Groceries,Variable,Credit Card,4026,Expense,-4026,7730,3704,Supermarket groceries
+2026-03-08,Mar-26,,Utilities,Fixed,UPI,1756,Expense,-1756,4516,2760,Electricity bill
+2026-03-11,Mar-26,,Utilities,Fixed,UPI,1582,Expense,-1582,4516,2934,Internet / mobile bill
+2026-03-12,Mar-26,,Food,Variable,Credit Card,1429,Expense,-1429,6836,5407,Dining out / office lunch
+2026-03-16,Mar-26,,Shopping,Variable,Credit Card,2201,Expense,-2201,5259,3058,Apparel / lifestyle purchase
+2026-03-18,Mar-26,,Entertainment,Variable,UPI,1393,Expense,-1393,3319,1926,Movies / subscriptions
+2026-03-19,Mar-26,Business,,N/A,Bank Transfer,23317,Income,23317,0,0,Small business side income
+2026-03-21,Mar-26,,Groceries,Variable,UPI,3800,Expense,-3800,7730,3930,Monthly essentials restock
+2026-03-25,Mar-26,,Food,Variable,UPI,1829,Expense,-1829,6836,5007,Weekend food order
+2026-03-26,Mar-26,,Healthcare,Variable,Credit Card,862,Expense,-862,3606,2744,Health and wellness spend
+2026-03-27,Mar-26,Interest,,N/A,Bank Transfer,2207,Income,2207,0,0,Interest from savings / FD
+2026-03-28,Mar-26,,Travel,Variable,Credit Card,6163,Expense,-6163,4351,-1812,Cab / fuel / local travel
+2026-04-01,Apr-26,Salary,,N/A,Bank Transfer,92404,Income,92404,0,0,Monthly salary credited
+2026-04-02,Apr-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-04-05,Apr-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-04-07,Apr-26,,Groceries,Variable,Cash,3904,Expense,-3904,7265,3361,Supermarket groceries
+2026-04-08,Apr-26,,Utilities,Fixed,Bank Transfer,1871,Expense,-1871,3969,2098,Electricity bill
+2026-04-09,Apr-26,,Insurance,Fixed,Bank Transfer,3500,Expense,-3500,3500,0,Health insurance premium
+2026-04-11,Apr-26,,Utilities,Fixed,UPI,1740,Expense,-1740,3969,2229,Internet / mobile bill
+2026-04-12,Apr-26,,Food,Variable,Credit Card,2660,Expense,-2660,6096,3436,Dining out / office lunch
+2026-04-14,Apr-26,,Healthcare,Variable,Credit Card,1805,Expense,-1805,2609,804,Health and wellness spend
+2026-04-16,Apr-26,,Shopping,Variable,UPI,5739,Expense,-5739,4718,-1021,Apparel / lifestyle purchase
+2026-04-16,Apr-26,,Travel,Variable,Credit Card,7269,Expense,-7269,4340,-2929,Short trip / weekend getaway
+2026-04-18,Apr-26,,Entertainment,Variable,Cash,1664,Expense,-1664,3089,1425,Movies / subscriptions
+2026-04-21,Apr-26,,Groceries,Variable,UPI,4212,Expense,-4212,7265,3053,Monthly essentials restock
+2026-04-25,Apr-26,Freelance,,N/A,Bank Transfer,19787,Income,19787,0,0,Freelance project payment
+2026-04-25,Apr-26,,Food,Variable,Cash,2017,Expense,-2017,6096,4079,Weekend food order
+2026-04-27,Apr-26,,Travel,Variable,Credit Card,3830,Expense,-3830,4340,510,Cab / fuel / local travel
+2026-05-01,May-26,Salary,,N/A,Bank Transfer,88804,Income,88804,0,0,Monthly salary credited
+2026-05-02,May-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-05-05,May-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-05-07,May-26,,Groceries,Variable,UPI,2938,Expense,-2938,7104,4166,Supermarket groceries
+2026-05-08,May-26,,Utilities,Fixed,UPI,1607,Expense,-1607,3941,2334,Electricity bill
+2026-05-11,May-26,,Utilities,Fixed,UPI,1272,Expense,-1272,3941,2669,Internet / mobile bill
+2026-05-12,May-26,,Food,Variable,UPI,2252,Expense,-2252,6636,4384,Dining out / office lunch
+2026-05-16,May-26,,Shopping,Variable,Credit Card,6177,Expense,-6177,4488,-1689,Apparel / lifestyle purchase
+2026-05-18,May-26,,Entertainment,Variable,Credit Card,1338,Expense,-1338,3340,2002,Movies / subscriptions
+2026-05-21,May-26,,Groceries,Variable,UPI,3476,Expense,-3476,7104,3628,Monthly essentials restock
+2026-05-23,May-26,,Shopping,Variable,UPI,4190,Expense,-4190,4488,298,Seasonal / festive shopping
+2026-05-25,May-26,,Food,Variable,Cash,1770,Expense,-1770,6636,4866,Weekend food order
+2026-05-26,May-26,,Healthcare,Variable,Bank Transfer,4507,Expense,-4507,3498,-1009,Medicines / doctor consultation
+2026-05-26,May-26,,Education,Variable,Credit Card,2579,Expense,-2579,2675,96,Course / books / certification
+2026-06-01,Jun-26,Salary,,N/A,Bank Transfer,87772,Income,87772,0,0,Monthly salary credited
+2026-06-02,Jun-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-06-05,Jun-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-06-07,Jun-26,,Groceries,Variable,Credit Card,2924,Expense,-2924,7000,4076,Supermarket groceries
+2026-06-08,Jun-26,,Utilities,Fixed,UPI,2020,Expense,-2020,4666,2646,Electricity bill
+2026-06-11,Jun-26,,Utilities,Fixed,UPI,1678,Expense,-1678,4666,2988,Internet / mobile bill
+2026-06-12,Jun-26,,Food,Variable,UPI,1423,Expense,-1423,6687,5264,Dining out / office lunch
+2026-06-16,Jun-26,,Shopping,Variable,Credit Card,4956,Expense,-4956,5140,184,Apparel / lifestyle purchase
+2026-06-17,Jun-26,,Healthcare,Variable,UPI,1507,Expense,-1507,3842,2335,Health and wellness spend
+2026-06-18,Jun-26,,Entertainment,Variable,Cash,1818,Expense,-1818,2793,975,Movies / subscriptions
+2026-06-18,Jun-26,,Travel,Variable,UPI,5589,Expense,-5589,5082,-507,Cab / fuel / local travel
+2026-06-21,Jun-26,Freelance,,N/A,Bank Transfer,13588,Income,13588,0,0,Freelance project payment
+2026-06-21,Jun-26,,Groceries,Variable,Credit Card,4291,Expense,-4291,7000,2709,Monthly essentials restock
+2026-06-25,Jun-26,,Food,Variable,UPI,1592,Expense,-1592,6687,5095,Weekend food order
+2026-06-27,Jun-26,Interest,,N/A,Bank Transfer,2667,Income,2667,0,0,Interest from savings / FD
+2026-07-01,Jul-26,Salary,,N/A,Bank Transfer,93619,Income,93619,0,0,Monthly salary credited
+2026-07-02,Jul-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-07-05,Jul-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-07-07,Jul-26,,Groceries,Variable,UPI,2991,Expense,-2991,6992,4001,Supermarket groceries
+2026-07-08,Jul-26,,Utilities,Fixed,UPI,2163,Expense,-2163,3876,1713,Electricity bill
+2026-07-09,Jul-26,,Insurance,Fixed,Bank Transfer,3500,Expense,-3500,3500,0,Health insurance premium
+2026-07-11,Jul-26,,Utilities,Fixed,UPI,1300,Expense,-1300,3876,2576,Internet / mobile bill
+2026-07-12,Jul-26,,Food,Variable,Credit Card,2194,Expense,-2194,5563,3369,Dining out / office lunch
+2026-07-16,Jul-26,,Shopping,Variable,UPI,1517,Expense,-1517,4606,3089,Apparel / lifestyle purchase
+2026-07-18,Jul-26,,Entertainment,Variable,UPI,1237,Expense,-1237,2969,1732,Movies / subscriptions
+2026-07-20,Jul-26,,Healthcare,Variable,Cash,4411,Expense,-4411,3328,-1083,Medicines / doctor consultation
+2026-07-21,Jul-26,,Groceries,Variable,Credit Card,3140,Expense,-3140,6992,3852,Monthly essentials restock
+2026-07-25,Jul-26,,Food,Variable,Credit Card,1637,Expense,-1637,5563,3926,Weekend food order
+2026-08-01,Aug-26,Salary,,N/A,Bank Transfer,93431,Income,93431,0,0,Monthly salary credited
+2026-08-02,Aug-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-08-05,Aug-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-08-07,Aug-26,,Groceries,Variable,Credit Card,3188,Expense,-3188,7127,3939,Supermarket groceries
+2026-08-08,Aug-26,,Utilities,Fixed,Bank Transfer,2313,Expense,-2313,4772,2459,Electricity bill
+2026-08-11,Aug-26,,Utilities,Fixed,UPI,1948,Expense,-1948,4772,2824,Internet / mobile bill
+2026-08-12,Aug-26,,Food,Variable,Cash,2386,Expense,-2386,5829,3443,Dining out / office lunch
+2026-08-14,Aug-26,,Travel,Variable,Credit Card,8660,Expense,-8660,5337,-3323,Short trip / weekend getaway
+2026-08-15,Aug-26,,Healthcare,Variable,Credit Card,740,Expense,-740,3727,2987,Health and wellness spend
+2026-08-16,Aug-26,,Shopping,Variable,Credit Card,1910,Expense,-1910,4946,3036,Apparel / lifestyle purchase
+2026-08-17,Aug-26,Freelance,,N/A,UPI,19454,Income,19454,0,0,Freelance project payment
+2026-08-18,Aug-26,,Entertainment,Variable,Cash,1542,Expense,-1542,3799,2257,Movies / subscriptions
+2026-08-21,Aug-26,,Groceries,Variable,UPI,3245,Expense,-3245,7127,3882,Monthly essentials restock
+2026-08-25,Aug-26,,Food,Variable,UPI,2310,Expense,-2310,5829,3519,Weekend food order
+2026-08-26,Aug-26,,Education,Variable,Bank Transfer,2078,Expense,-2078,3147,1069,Course / books / certification
+2026-08-28,Aug-26,,Travel,Variable,Cash,6150,Expense,-6150,5337,-813,Cab / fuel / local travel
+2026-09-01,Sep-26,Salary,,N/A,Bank Transfer,92531,Income,92531,0,0,Monthly salary credited
+2026-09-02,Sep-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-09-05,Sep-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-09-07,Sep-26,,Groceries,Variable,Cash,3658,Expense,-3658,7493,3835,Supermarket groceries
+2026-09-08,Sep-26,,Utilities,Fixed,UPI,2183,Expense,-2183,3901,1718,Electricity bill
+2026-09-11,Sep-26,,Utilities,Fixed,UPI,1452,Expense,-1452,3901,2449,Internet / mobile bill
+2026-09-12,Sep-26,,Food,Variable,Credit Card,2270,Expense,-2270,6893,4623,Dining out / office lunch
+2026-09-16,Sep-26,Business,,N/A,Bank Transfer,18853,Income,18853,0,0,Small business side income
+2026-09-16,Sep-26,,Shopping,Variable,UPI,3455,Expense,-3455,4734,1279,Apparel / lifestyle purchase
+2026-09-18,Sep-26,,Entertainment,Variable,Cash,2366,Expense,-2366,3177,811,Movies / subscriptions
+2026-09-18,Sep-26,,Healthcare,Variable,Bank Transfer,1736,Expense,-1736,2952,1216,Medicines / doctor consultation
+2026-09-21,Sep-26,,Groceries,Variable,Cash,3995,Expense,-3995,7493,3498,Monthly essentials restock
+2026-09-25,Sep-26,,Food,Variable,UPI,1734,Expense,-1734,6893,5159,Weekend food order
+2026-09-27,Sep-26,Interest,,N/A,Bank Transfer,2045,Income,2045,0,0,Interest from savings / FD
+2026-10-01,Oct-26,Salary,,N/A,Bank Transfer,92502,Income,92502,0,0,Monthly salary credited
+2026-10-02,Oct-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-10-05,Oct-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-10-07,Oct-26,,Groceries,Variable,Cash,3738,Expense,-3738,7802,4064,Supermarket groceries
+2026-10-08,Oct-26,,Utilities,Fixed,UPI,1923,Expense,-1923,3514,1591,Electricity bill
+2026-10-09,Oct-26,,Insurance,Fixed,Bank Transfer,3500,Expense,-3500,3500,0,Health insurance premium
+2026-10-11,Oct-26,,Utilities,Fixed,UPI,1969,Expense,-1969,3514,1545,Internet / mobile bill
+2026-10-12,Oct-26,,Food,Variable,Cash,1350,Expense,-1350,6064,4714,Dining out / office lunch
+2026-10-16,Oct-26,,Shopping,Variable,UPI,2063,Expense,-2063,4869,2806,Apparel / lifestyle purchase
+2026-10-17,Oct-26,Freelance,,N/A,UPI,22575,Income,22575,0,0,Freelance project payment
+2026-10-18,Oct-26,,Entertainment,Variable,Credit Card,1171,Expense,-1171,3046,1875,Movies / subscriptions
+2026-10-21,Oct-26,,Groceries,Variable,UPI,3953,Expense,-3953,7802,3849,Monthly essentials restock
+2026-10-22,Oct-26,,Travel,Variable,Credit Card,5389,Expense,-5389,3965,-1424,Cab / fuel / local travel
+2026-10-23,Oct-26,,Shopping,Variable,Credit Card,5227,Expense,-5227,4869,-358,Seasonal / festive shopping
+2026-10-25,Oct-26,,Food,Variable,Cash,1636,Expense,-1636,6064,4428,Weekend food order
+2026-10-27,Oct-26,,Healthcare,Variable,Cash,1852,Expense,-1852,3221,1369,Health and wellness spend
+2026-11-01,Nov-26,Salary,,N/A,Bank Transfer,93611,Income,93611,0,0,Monthly salary credited
+2026-11-02,Nov-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-11-05,Nov-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-11-07,Nov-26,,Groceries,Variable,UPI,4158,Expense,-4158,7870,3712,Supermarket groceries
+2026-11-08,Nov-26,,Utilities,Fixed,UPI,2269,Expense,-2269,3835,1566,Electricity bill
+2026-11-11,Nov-26,,Utilities,Fixed,Credit Card,1741,Expense,-1741,3835,2094,Internet / mobile bill
+2026-11-12,Nov-26,,Food,Variable,UPI,1436,Expense,-1436,6044,4608,Dining out / office lunch
+2026-11-16,Nov-26,,Shopping,Variable,UPI,6454,Expense,-6454,5742,-712,Apparel / lifestyle purchase
+2026-11-17,Nov-26,,Healthcare,Variable,Cash,3270,Expense,-3270,3716,446,Medicines / doctor consultation
+2026-11-18,Nov-26,,Entertainment,Variable,UPI,1457,Expense,-1457,3210,1753,Movies / subscriptions
+2026-11-21,Nov-26,,Groceries,Variable,Credit Card,3075,Expense,-3075,7870,4795,Monthly essentials restock
+2026-11-23,Nov-26,,Shopping,Variable,Credit Card,5008,Expense,-5008,5742,734,Seasonal / festive shopping
+2026-11-25,Nov-26,,Food,Variable,Cash,2720,Expense,-2720,6044,3324,Weekend food order
+2026-11-26,Nov-26,,Education,Variable,Credit Card,2828,Expense,-2828,2192,-636,Course / books / certification
+2026-12-01,Dec-26,Salary,,N/A,Bank Transfer,94416,Income,94416,0,0,Monthly salary credited
+2026-12-02,Dec-26,,Rent,Fixed,Bank Transfer,28000,Expense,-28000,28000,0,House rent payment
+2026-12-05,Dec-26,,EMI,Fixed,Bank Transfer,9000,Expense,-9000,9000,0,Personal loan EMI
+2026-12-07,Dec-26,,Groceries,Variable,Credit Card,2807,Expense,-2807,6905,4098,Supermarket groceries
+2026-12-08,Dec-26,,Utilities,Fixed,Bank Transfer,2033,Expense,-2033,4503,2470,Electricity bill
+2026-12-09,Dec-26,Freelance,,N/A,Bank Transfer,25862,Income,25862,0,0,Freelance project payment
+2026-12-11,Dec-26,,Utilities,Fixed,UPI,2049,Expense,-2049,4503,2454,Internet / mobile bill
+2026-12-12,Dec-26,,Food,Variable,UPI,1736,Expense,-1736,6549,4813,Dining out / office lunch
+2026-12-15,Dec-26,,Travel,Variable,Cash,3021,Expense,-3021,5097,2076,Cab / fuel / local travel
+2026-12-16,Dec-26,,Shopping,Variable,UPI,6094,Expense,-6094,4938,-1156,Apparel / lifestyle purchase
+2026-12-18,Dec-26,,Entertainment,Variable,Cash,2345,Expense,-2345,3277,932,Movies / subscriptions
+2026-12-19,Dec-26,,Healthcare,Variable,Credit Card,1480,Expense,-1480,3595,2115,Health and wellness spend
+2026-12-20,Dec-26,Bonus,,N/A,Bank Transfer,45000,Income,45000,0,0,Year-end performance bonus
+2026-12-21,Dec-26,,Groceries,Variable,Cash,3067,Expense,-3067,6905,3838,Monthly essentials restock
+2026-12-23,Dec-26,,Shopping,Variable,Credit Card,3116,Expense,-3116,4938,1822,Seasonal / festive shopping
+2026-12-25,Dec-26,,Food,Variable,Credit Card,2718,Expense,-2718,6549,3831,Weekend food order
+2026-12-26,Dec-26,,Travel,Variable,Credit Card,11337,Expense,-11337,5097,-6240,Short trip / weekend getaway
+2026-12-27,Dec-26,Interest,,N/A,Bank Transfer,3099,Income,3099,0,0,Interest from savings / FD
